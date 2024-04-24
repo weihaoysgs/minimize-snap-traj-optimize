@@ -1,10 +1,10 @@
-# Minimizer Snap Trajectory Generation:yum:
+# Minimizer Snap Trajectory Generation :yum:
 
 We have implemented two methods for solving the Minimizer Snap Trajectory Generation problem, including a close-form solution and an optimized solution based on OSQP. The result is as follows
 
-![](./images/example1.png)
+<div align=center><img src="./images/example1.png" width = 70%></div>
 
-## Build And Run Example:runner:
+## Build And Run Example :runner:
 
 the following package is need to install
 
@@ -55,6 +55,6 @@ waypoints <<         0,         0,      0,
 // clang-format on
 ```
 
-## Acknowledgments:heart_eyes_cat:
+## Acknowledgments :heart_eyes_cat:
 
 Our implementation is based on professor Fei Gao’s code and theoretical explanation. Thanks to Teacher Gao and Fast-Lab for their open source contributions in motion planning field.
