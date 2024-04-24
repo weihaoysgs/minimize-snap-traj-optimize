@@ -57,4 +57,4 @@ waypoints <<         0,         0,      0,
 
 ## Acknowledgments :heart_eyes_cat:
 
-Our implementation is based on professor Fei Gao’s code and theoretical explanation. Thanks to Teacher Gao and Fast-Lab for their open source contributions in motion planning field.
+Our implementation is based on professor [Fei Gao](http://zju-fast.com/fei-gao/)’s code and theoretical explanation. Thanks to Teacher Gao and [Fast-Lab](http://zju-fast.com/) for their open source contributions in motion planning field.
